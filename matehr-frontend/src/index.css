@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-dark: #193C47;
+  --color-aside: #19313A;
+  --color-primary-teal: #257C82;
+  --color-brand-green: #4EA868;
+  --color-brand-green-light: #D1EAD8;
+  --color-brand-green-bg: #E9F6ED;
+  --color-bg-app: #F4F7F6;
+  --color-surface: #FFFFFF;
+  --color-text-primary: #142930;
+  --color-text-muted: #6C7D82;
+  --color-border: #E3ECE8;
+  --font-sans: Inter, Plus Jakarta Sans, Poppins, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
